@@ -1,4 +1,6 @@
 # fNIRS Neurofeedback Intervention in Adolescent Depression
+* Name: Zheng Xia
+* Student ID: 15984230
 
 ---
 
