@@ -24,7 +24,6 @@ The research contributes to the growing literature on neurofeedback-based interv
 The project is organized into three main studies, each corresponding to a different stage of the research.  
 All analyses are written in R, and the folder hierarchy is designed to separate raw data, processed data, scripts, and outputs clearly.
 
-![Folder structure screenshot](Folder_screenshot.png)
 <p align="center">
   <img src="Folder_screenshot.png" width="300">
 </p>
