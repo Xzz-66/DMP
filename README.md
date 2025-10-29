@@ -24,6 +24,8 @@ The research contributes to the growing literature on neurofeedback-based interv
 The project is organized into three main studies, each corresponding to a different stage of the research.  
 All analyses are written in R, and the folder hierarchy is designed to separate raw data, processed data, scripts, and outputs clearly.
 
+![Folder structure screenshot](folder_screenshot.png)
+
 ### Folder Descriptions
 #### **Study1 – Behavioral Analysis**
 - **Behav_data/** – raw and preprocessed Excel files for both groups (`raw_HC.xlsx`, `raw_MDD.xlsx`, `preproc_HC.xlsx`, `preproc_MDD.xlsx`).  
